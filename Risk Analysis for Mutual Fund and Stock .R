@@ -1,6 +1,6 @@
 
-setwd("/Users/peiqinhe/Desktop/Before 05:2024/AF23.07BF2403-Duke/Spring2/Finance Risk Management/Team Assignment/")
-load("MQM530-TeamAssignment1.RData", verbose=TRUE)
+setwd("/Users/peiqinhe/Desktop/Analysis Skills/R/")
+load("Risk Analysis.RData", verbose=TRUE)
 
 # The following packages and functions will be used for this assignment:
 library(data.table)
